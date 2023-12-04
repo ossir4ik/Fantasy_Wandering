@@ -1,2 +1,4 @@
-## Fantasy_Wandering
-PRG boardgame. Seems like a D&amp;D, but some easier.
+# Fantasy_Wandering
+Это моя первая серьёзная настольная игра, которую начал разрабатывать. Она была взята с известной всем настольно-ролевой игры Dungeon & Dragon и доработана так как того требовала ситуация.
+
+## Зачем?
